@@ -4,12 +4,15 @@
 
 - user: 1
   name: Eduarda Domingues
-  git-username: EduardaDominguess
+  git-username: EduardaDominguess  
   blackboard-username: eduardapd
+
+- user: 3
+  name: Isabelle Santos
+  git-username: isabelleatt  
+  blackboard-username: isabelles
 
 - user: 4
   name: Livia Tanaka
   git-username: liviatanaka
   blackboard-username: liviat1
-
-teste 2
